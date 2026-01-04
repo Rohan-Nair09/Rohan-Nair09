@@ -57,6 +57,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rohan-nair09"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="work.rohannair@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://gitlab.com/Havoc-09"><img src="https://skillicons.dev/icons?i=gitlab" height="40" /></a>
 </p>
 
 ---
