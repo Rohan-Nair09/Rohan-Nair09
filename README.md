@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">👋 Hi, I'm Havoc-09</h1>
+<h1 align="center">👋 Hi, I'm Rohan-Nair09</h1>
 <h3 align="center">Cyber Security Enthusiast | Python Learner | Coffee ☕ Powered Coder</h3>
 
 ---
@@ -36,12 +36,12 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Havoc-09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Havoc-09&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Havoc-09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rohan-Nair09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rohan-Nair09&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Nair09&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Havoc-09&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rohan-Nair09&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ## ⌨️ Typing Animation  
