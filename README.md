@@ -64,18 +64,8 @@
 
 ## 🚀 Featured Projects  
 - ❤️ **Heart Rate Sensor** → Reads and monitors heart rate via Arduino Uno  
-- ☕ **HAVOC Coffee Shop System** → Python project with GUI, receipts & sales dashboard  
-
----
-
-## 🛡 Cyber Security Learning Journey  
-✅ Linux Basics  
-✅ Networking Fundamentals  
-✅ Python for Security  
-🔲 Web Application Security  
-🔲 Penetration Testing  
-🔲 Bug Bounty Hunting  
-🔲 Malware Analysis  
+- ☕ **HAVOC Coffee Shop System** → Python project with GUI, receipts & sales dashboard
+- 🔎 **ProWin** → Windows Service & Process Montoring Agent
 
 ---
 
