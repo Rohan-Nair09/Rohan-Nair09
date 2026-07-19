@@ -142,15 +142,6 @@ Real-time host-based intrusion detection dashboard — monitors file changes, de
 
 </div>
 
----
-
-## 📈 activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohan-Nair09&bg_color=0d0d0d&color=c084fc&line=8b5cf6&point=f59e0b&area=true&area_color=2d1b69&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
